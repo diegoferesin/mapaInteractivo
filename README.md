@@ -13,19 +13,3 @@ REQUISITOS
 Para poder realizar el proyecto Mapa Interactivo es necesario contar con conocimientos de HTML, CSS y JavaScript. De este último en particular conocer variables, datos, condicionales y bucles, funciones y manejo simple del DOM. Además, contar con conocimientos básicos de programación orientada a objetos en JavaScript como scopes y closures.
 
 [Acámica](https://www.acamica.com/desarrollo-web-full-stack 'titulo')
-
-## base-project
-
-## Desarrollo
-
-```bash
-# instalar dependencias
-npm i
-
-# modo desarrollo
-npm start
-```
-
-## Licencia
-
-ISC
